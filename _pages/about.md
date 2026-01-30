@@ -35,27 +35,32 @@ My research interests primarily lie in **multimodal learning** and **AI agents**
 - **2025.09**: Started my Ph.D. in Computer Science at UCSB.
 - **2024.05**: &nbsp;🎉🎉 Honored to receive the **Best Computer Science Research Award** at USC.
 
-# 📝 Publications
+# 📝 Selected Publications
 
-- **Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing**  
+- <span style="font-size: 1.05em;"><strong>Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing</strong></span>  
   **Zhaotian Weng**, Antonis Antoniades, Deepak Nathani, Zhen Zhang, Sophia Xiao Pu, Xin (Eric) Wang.  
-  *Under review for a top-tier conference.*
+  **Under review for a top-tier machine learning conference.**
 
-- **What’s Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning**  
+- <span style="font-size: 1.05em;"><strong>What’s Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning</strong></span>  
   **Zhaotian Weng**, Haoxuan Li, Xin (Eric) Wang, Kuan-Hao Huang, Jieyu Zhao.  
-  *EACL 2026.*
+  **EACL 2026.**
 
-- **Evaluating and Improving Context-aware Privacy Protection in Vision-Language Models**  
+- <span style="font-size: 1.05em;"><strong>Evaluating and Improving Context-aware Privacy Protection in Vision-Language Models</strong></span>  
   **Zhaotian Weng**, Haoxuan Li, Jieyu Zhao.  
-  *NeurIPS 2025 Workshop on Efficient Reasoning.*
+  **NeurIPS 2025 Workshop on Efficient Reasoning.**
 
-- **Images Speak Louder than Words: Understanding and Mitigating Bias in Vision-Language Models from a Causal Mediation Perspective**  
+- <span style="font-size: 1.05em;"><strong>Images Speak Louder than Words: Understanding and Mitigating Bias in Vision-Language Models from a Causal Mediation Perspective</strong></span>  
   **Zhaotian Weng**, Zijun Gao, Jerone Andrews, Jieyu Zhao.  
-  *EMNLP 2024.*
+  **EMNLP 2024.**
 
-- **LLM Self-contradictory Hallucination Mitigation via Retrieval-Based Post-Processing**  
+- <span style="font-size: 1.05em;"><strong>BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents</strong></span>  
+  Haoxuan Li, Mingyu Derek Ma, Jen-tse Huang, **Zhaotian Weng**, Wei Wang, Jieyu Zhao.  
+  **arXiv preprint.**
+
+- <span style="font-size: 1.05em;"><strong>LLM Self-contradictory Hallucination Mitigation via Retrieval-Based Post-Processing</strong></span>  
   **Zhaotian Weng**, Xingjian Dong, Liyan Huang, Jingwen Qi.  
-  *SoCal NLP Symposium 2024.*
+  **SoCal NLP Symposium 2024.**
+
 
 
 # 🎖 Honors and Awards
