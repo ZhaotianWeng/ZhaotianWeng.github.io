@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhaotian Weng"
-description              : "PhD student in Computer Science at UCSB. Research interests: vision-language models, causal reasoning, self-improving agents."
+description              : "PhD student in Computer Science at UCSB. Research interests: AI agents, multimodal learning, open-ended self-improving agents"
 repository               : "ZhaotianWeng/ZhaotianWeng.github.io"
 google_scholar_stats_use_cdn : true
 
