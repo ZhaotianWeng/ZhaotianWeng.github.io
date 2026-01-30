@@ -17,10 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhaotian Weng is a first-year Ph.D. student in Computer Science at the  [University of California, Santa Barbara](http://nlp.cs.ucsb.edu), advised by Prof. [Xin (Eric) Wang](https://eric-ai-lab.github.io/index.html). He received his M.S. in Computer Science from the University of Southern California, where he was honored with the **Best Computer Science Research Award**. 
-Prior to that, he earned his B.E. in Software Engineering from Tsinghua University and graduated with the distinction of **Outstanding Undergraduate**.
+I am a first-year Ph.D. student in Computer Science at the [University of California, Santa Barbara](http://nlp.cs.ucsb.edu), advised by Prof. [Xin (Eric) Wang](https://eric-ai-lab.github.io/index.html). 
+I received my M.S. in Computer Science from the University of Southern California, where I was honored with the **Best Computer Science Research Award**. 
+Prior to that, I earned my B.E. in Software Engineering from Tsinghua University and graduated with the distinction of **Outstanding Undergraduate**.
 
-At USC, he was fortunate to be advised by Prof. [Jieyu Zhao](https://jyzhao.net) and Prof. [Kuan-Hao Huang](https://khhuang.me).
+At USC, I was fortunate to be advised by Prof. [Jieyu Zhao](https://jyzhao.net) and Prof. [Kuan-Hao Huang](https://khhuang.me).
+
 
 
 
