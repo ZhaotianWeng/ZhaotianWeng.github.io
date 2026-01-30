@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student in Computer Science at the [University of California, Santa Barbara](http://nlp.cs.ucsb.edu), advised by Prof. [Xin (Eric) Wang](https://eric-ai-lab.github.io/index.html). 
+I am a first-year Ph.D. student in Computer Science at the [University of California, Santa Barbara](http://nlp.cs.ucsb.edu), advised by Prof. [Xin (Eric) Wang](https://eric-xw.github.io). 
 I received my M.S. in Computer Science from the University of Southern California, where I was honored with the **Best Computer Science Research Award**. 
 Prior to that, I earned my B.E. in Software Engineering from Tsinghua University and graduated with the distinction of **Outstanding Undergraduate**.
 
