@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"   # 先不改也行；后面你换头像时再改
   bio              : "PhD student, Computer Science @ UCSB"
   location         : "Santa Barbara, CA, USA"
-  employer         : "University of California,<br>Santa Barbara"
+  employer         : "UCSB"  #University of California,<br>Santa Barbara
   pubmed           : 
   googlescholar    : 
   email            : "zhaotian@ucsb.edu"
