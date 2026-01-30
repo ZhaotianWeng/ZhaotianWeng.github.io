@@ -64,8 +64,12 @@ My research interests primarily lie in **multimodal learning** and **AI agents**
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- **Best Computer Science Research Award**, University of Southern California
+- **Outstanding Undergraduate Graduate Honor**, Tsinghua University
+- **Scholarships:** Academic Excellence; Scientific Research Excellence; Sports Excellence (Tsinghua University)
+- **Competitions:** 1st prize, National College Students Physics Competition (2020); Honorable Mention, MCM (2022); 1st prize, Tsinghua University Software Development Competition
+
 
 # 🎓 Education
 
@@ -90,6 +94,12 @@ My research interests primarily lie in **multimodal learning** and **AI agents**
 - **Course Producer**, CSCI 585: Database Systems  
   University of Southern California, Fall 2024
 
+# 🧑‍⚖️ Service
+
+- **Conference Reviewer**: EMNLP 2024, ARR 2024 (August, October, December), ACL 2025, EMNLP 2025, ARR 2025 October.
+- **Conference Volunteer**: EMNLP 2024
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- **Machine Learning Engineer**, MockAI  
+  Los Angeles, CA · *Feb. 2024 – May. 2024*
