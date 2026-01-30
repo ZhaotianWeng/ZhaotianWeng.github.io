@@ -70,10 +70,14 @@ My research interests primarily lie in **multimodal learning** and **AI agents**
   B.Eng. in Software Engineering, *Sep. 2019 – Jun. 2023*  
   Honor: **Outstanding Undergraduate Graduate Honor**
 
+# 📘 Teaching
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- **Teaching Assistant**, CS 16: Problem Solving (C++)  
+  University of California, Santa Barbara, Winter 2026
+
+- **Course Producer**, CSCI 585: Database Systems  
+  University of Southern California, Fall 2024
+
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
