@@ -35,21 +35,28 @@ My research interests primarily lie in **multimodal learning** and **AI agents**
 - **2025.09**: Started my Ph.D. in Computer Science at UCSB.
 - **2024.05**: &nbsp;🎉🎉 Honored to receive the **Best Computer Science Research Award** at USC.
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing**  
+  **Zhaotian Weng**, Antonis Antoniades, Deepak Nathani, Zhen Zhang, Sophia Xiao Pu, Xin (Eric) Wang.  
+  *Under review for a top-tier conference.*
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **What’s Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning**  
+  **Zhaotian Weng**, Haoxuan Li, Xin (Eric) Wang, Kuan-Hao Huang, Jieyu Zhao.  
+  *EACL 2026.*
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **Evaluating and Improving Context-aware Privacy Protection in Vision-Language Models**  
+  **Zhaotian Weng**, Haoxuan Li, Jieyu Zhao.  
+  *NeurIPS 2025 Workshop on Efficient Reasoning.*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- **Images Speak Louder than Words: Understanding and Mitigating Bias in Vision-Language Models from a Causal Mediation Perspective**  
+  **Zhaotian Weng**, Zijun Gao, Jerone Andrews, Jieyu Zhao.  
+  *EMNLP 2024.*
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **LLM Self-contradictory Hallucination Mitigation via Retrieval-Based Post-Processing**  
+  **Zhaotian Weng**, Xingjian Dong, Liyan Huang, Jingwen Qi.  
+  *SoCal NLP Symposium 2024.*
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
