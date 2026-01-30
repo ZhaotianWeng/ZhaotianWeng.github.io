@@ -55,9 +55,21 @@ My research interests primarily lie in **multimodal learning** and **AI agents**
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎓 Education
+
+- **University of California, Santa Barbara**  
+  Ph.D. in Computer Science, *Sep. 2025 – Present*  
+  Advisor: Prof. Xin (Eric) Wang
+
+- **University of Southern California**  
+  M.S. in Computer Science, *Aug. 2023 – May. 2025*  
+  Advisors: Prof. Jieyu Zhao, Prof. Kuan-Hao Huang  
+  Honor: **Best Computer Science Research Award**
+
+- **Tsinghua University**  
+  B.Eng. in Software Engineering, *Sep. 2019 – Jun. 2023*  
+  Honor: **Outstanding Undergraduate Graduate Honor**
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
