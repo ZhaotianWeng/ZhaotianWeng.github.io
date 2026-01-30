@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Zhaotian Weng"
 description              : "PhD student in Computer Science at UCSB. Research interests: vision-language models, causal reasoning, self-improving agents."
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "ZhaotianWeng/zhaotianweng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,16 +21,16 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
+   name             : "Zhaotian Weng"
+  avatar           : "images/android-chrome-512x512.png"   # 先不改也行；后面你换头像时再改
+  bio              : "PhD student, Computer Science @ UCSB"
+  location         : "Santa Barbara, CA, USA"
+  employer         : "University of California, Santa Barbara"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : 
+  email            : "zhaotian@ucsb.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://zhaotianweng.github.io" 
   bitbucket        :
   codepen          :
   dribbble         :
