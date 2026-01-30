@@ -23,6 +23,10 @@ Prior to that, I earned my B.E. in Software Engineering from Tsinghua University
 
 At USC, I was fortunate to be advised by Prof. [Jieyu Zhao](https://jyzhao.net) and Prof. [Kuan-Hao Huang](https://khhuang.me).
 
+My research interests primarily lie in **multimodal learning** and **AI agents**. Recently, I have been particularly interested in improving the **fine-grained reasoning capabilities of multimodal models** and in developing **open-ended self-improving agents**.
+
+
+
 
 
 
