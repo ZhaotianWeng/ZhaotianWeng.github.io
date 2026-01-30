@@ -31,8 +31,9 @@ My research interests primarily lie in **multimodal learning** and **AI agents**
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2026.01**: &nbsp;🎉🎉 one paper accepted at EACL 2026! check it here: [What's Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning](https://arxiv.org/abs/2506.00869).
+- **2025.09**: Started my Ph.D. in Computer Science at UCSB.
+- **2024.05**: &nbsp;🎉🎉 Hornored to receive the **Best Computer Science Research Award** at USC.
 
 # 📝 Publications 
 
