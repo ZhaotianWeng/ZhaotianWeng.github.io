@@ -39,7 +39,7 @@ My research interests primarily lie in **multimodal learning** and **AI agents**
 
 - <span style="font-size: 1.05em;"><strong>Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing</strong></span>  
   **Zhaotian Weng**, Antonis Antoniades, Deepak Nathani, Zhen Zhang, Sophia Xiao Pu, Xin (Eric) Wang.  
-  **Under review for a top-tier machine learning conference.**
+  **Under review for a top-tier conference.**
 
 - <span style="font-size: 1.05em;"><strong>What’s Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning</strong></span>  
   **Zhaotian Weng**, Haoxuan Li, Xin (Eric) Wang, Kuan-Hao Huang, Jieyu Zhao.  
