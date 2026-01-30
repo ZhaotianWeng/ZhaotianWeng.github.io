@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-   name             : "Zhaotian Weng"
+  name             : "Zhaotian Weng"
   avatar           : "images/android-chrome-512x512.png"   # 先不改也行；后面你换头像时再改
   bio              : "PhD student, Computer Science @ UCSB"
   location         : "Santa Barbara, CA, USA"
