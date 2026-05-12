@@ -25,13 +25,18 @@ At USC, I was fortunate to be advised by Prof. [Jieyu Zhao](https://jyzhao.net) 
 
 My research interests primarily lie in **multimodal learning** and **AI agents**. Recently, I have been particularly interested in improving the **fine-grained reasoning capabilities of multimodal models** and in developing **open-ended self-improving agents**.
 
+# 😊 Collaboration
+I’m always excited to collaborate on research projects. If you are a PhD student or researcher and think our interests align, feel free to reach out via email!
+
+I’m also happy to mentor undergraduate and master’s students interested in research. If you are interested in working together, please don’t hesitate to contact me by email.
 
 
 
 
 
 # 🔥 News
-- **2026.01**: &nbsp;🎉🎉 one paper accepted at EACL 2026! Check [What's Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning](https://arxiv.org/abs/2506.00869) for more details!
+-**2026.01**: &nbsp;🎉🎉 I’ll be joining Amazon this summer as an Applied Scientist Intern, working on self-improving AI and agents. Excited for the opportunity and looking forward to the summer!
+- **2026.01**: &nbsp;🎉🎉 one paper accepted at EACL 2026 as an Oral Presentation! Check [What's Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning](https://arxiv.org/abs/2506.00869) for more details!
 - **2025.09**: Started my Ph.D. in Computer Science at UCSB.
 - **2024.05**: &nbsp;🎉🎉 Honored to receive the **Best Computer Science Research Award** at USC.
 
