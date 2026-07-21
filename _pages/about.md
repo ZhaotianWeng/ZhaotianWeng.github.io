@@ -35,7 +35,7 @@ I’m also happy to mentor undergraduate and master’s students interested in r
 
 
 # 🔥 News
-- **2026.02**: &nbsp;🎉🎉 I’ll be joining Amazon this summer as an Applied Scientist Intern, working on self-improving AI and agents. Excited for the opportunity and looking forward to the summer!
+- **2026.06**: &nbsp;🎉🎉 I’ve joined Amazon as an Applied Scientist Intern, working on self-improving AI and agents. Excited for the opportunity and looking forward to a great summer!
 - **2026.01**: &nbsp;🎉🎉 one paper accepted at EACL 2026 as an Oral Presentation! Check [What's Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning](https://arxiv.org/abs/2506.00869) for more details!
 - **2025.09**: Started my Ph.D. in Computer Science at UCSB.
 - **2024.05**: &nbsp;🎉🎉 Honored to receive the **Best Computer Science Research Award** at USC.
@@ -44,7 +44,8 @@ I’m also happy to mentor undergraduate and master’s students interested in r
 
 - <span style="font-size: 1.05em;"><strong>Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing</strong></span>  
   **Zhaotian Weng**, Antonis Antoniades, Deepak Nathani, Zhen Zhang, Sophia Xiao Pu, Xin (Eric) Wang.  
-  **Under review for a top-tier conference.**
+  **COLM 2026.**  
+  [Paper](https://arxiv.org/abs/2602.04837) | [Website](https://group-evolving-agents.github.io/) | [VentureBeat](https://venturebeat.com/orchestration/new-agent-framework-matches-human-engineered-ai-systems-and-adds-zero) | [X](https://x.com/wengzhaoti39773/status/2077063215826301438) | [X](https://x.com/xwang_lk/status/2019454179400642788)
 
 - <span style="font-size: 1.05em;"><strong>What’s Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning</strong></span>  
   **Zhaotian Weng**, Haoxuan Li, Xin (Eric) Wang, Kuan-Hao Huang, Jieyu Zhao.  
