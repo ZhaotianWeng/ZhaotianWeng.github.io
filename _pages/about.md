@@ -36,28 +36,28 @@ I’m also happy to mentor undergraduate and master’s students interested in r
 
 # 🔥 News
 - **2026.06**: &nbsp;🎉🎉 I’ve joined Amazon as an Applied Scientist Intern, working on self-improving AI and agents. Excited for the opportunity and looking forward to a great summer!
-- **2026.01**: &nbsp;🎉🎉 one paper accepted at EACL 2026 as an Oral Presentation! Check [What's Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning](https://arxiv.org/abs/2506.00869) for more details!
+- **2026.01**: &nbsp;🎉🎉 one paper accepted at <span style="color:#a32020; font-weight:700;">EACL 2026 as an Oral Presentation!</span> Check [What's Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning](https://arxiv.org/abs/2506.00869) for more details!
 - **2025.09**: Started my Ph.D. in Computer Science at UCSB.
-- **2024.05**: &nbsp;🎉🎉 Honored to receive the **Best Computer Science Research Award** at USC.
+- **2024.05**: &nbsp;🎉🎉 Honored to receive the <span style="color:#a32020; font-weight:700;">Best Computer Science Research Award</span> at USC.
 
 # 📝 Selected Publications
 
 - <span style="font-size: 1.05em;"><strong>Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing</strong></span>  
   **Zhaotian Weng**, Antonis Antoniades, Deepak Nathani, Zhen Zhang, Sophia Xiao Pu, Xin (Eric) Wang.  
-  **COLM 2026.**  
+  <span style="color:#a32020; font-weight:700;">COLM 2026.</span>  
   [Paper](https://arxiv.org/abs/2602.04837) | [Website](https://group-evolving-agents.github.io/) | [VentureBeat](https://venturebeat.com/orchestration/new-agent-framework-matches-human-engineered-ai-systems-and-adds-zero) | [X](https://x.com/wengzhaoti39773/status/2077063215826301438) | [X](https://x.com/xwang_lk/status/2019454179400642788)
 
 - <span style="font-size: 1.05em;"><strong>What’s Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning</strong></span>  
   **Zhaotian Weng**, Haoxuan Li, Xin (Eric) Wang, Kuan-Hao Huang, Jieyu Zhao.  
-  **EACL 2026.**
+  <span style="color:#a32020; font-weight:700;">EACL 2026.</span>
 
 - <span style="font-size: 1.05em;"><strong>Evaluating and Improving Context-aware Privacy Protection in Vision-Language Models</strong></span>  
   **Zhaotian Weng**, Haoxuan Li, Jieyu Zhao.  
-  **NeurIPS 2025 Workshop on Efficient Reasoning.**
+  <span style="color:#a32020; font-weight:700;">NeurIPS 2025 Workshop on Efficient Reasoning.</span>
 
 - <span style="font-size: 1.05em;"><strong>Images Speak Louder than Words: Understanding and Mitigating Bias in Vision-Language Models from a Causal Mediation Perspective</strong></span>  
   **Zhaotian Weng**, Zijun Gao, Jerone Andrews, Jieyu Zhao.  
-  **EMNLP 2024.**
+  <span style="color:#a32020; font-weight:700;">EMNLP 2024.</span>
 
 - <span style="font-size: 1.05em;"><strong>BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents</strong></span>  
   Haoxuan Li, Mingyu Derek Ma, Jen-tse Huang, **Zhaotian Weng**, Wei Wang, Jieyu Zhao.  
@@ -65,7 +65,7 @@ I’m also happy to mentor undergraduate and master’s students interested in r
 
 - <span style="font-size: 1.05em;"><strong>LLM Self-contradictory Hallucination Mitigation via Retrieval-Based Post-Processing</strong></span>  
   **Zhaotian Weng**, Xingjian Dong, Liyan Huang, Jingwen Qi.  
-  **SoCal NLP Symposium 2024.**
+  <span style="color:#a32020; font-weight:700;">SoCal NLP Symposium 2024.</span>
 
 
 
