@@ -49,7 +49,7 @@ I’m also happy to mentor undergraduate and master’s students interested in r
 
 - <span style="font-size: 1.05em;"><strong>What’s Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning</strong></span>  
   **Zhaotian Weng**, Haoxuan Li, Xin (Eric) Wang, Kuan-Hao Huang, Jieyu Zhao.  
-  <span style="color:#a32020; font-weight:700;">EACL 2026.</span>
+  <span style="color:#a32020; font-weight:700;">EACL 2026 (Oral).</span>
 
 - <span style="font-size: 1.05em;"><strong>Evaluating and Improving Context-aware Privacy Protection in Vision-Language Models</strong></span>  
   **Zhaotian Weng**, Haoxuan Li, Jieyu Zhao.  
