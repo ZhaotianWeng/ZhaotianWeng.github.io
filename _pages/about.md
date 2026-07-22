@@ -45,11 +45,13 @@ I’m also happy to mentor undergraduate and master’s students interested in r
 - <span style="font-size: 1.05em;"><strong>Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing</strong></span>  
   **Zhaotian Weng**, Antonis Antoniades, Deepak Nathani, Zhen Zhang, Sophia Xiao Pu, Xin (Eric) Wang.  
   <span style="color:#a32020; font-weight:700;">COLM 2026.</span>  
-  [Paper](https://arxiv.org/abs/2602.04837) | [Website](https://group-evolving-agents.github.io/) | [VentureBeat](https://venturebeat.com/orchestration/new-agent-framework-matches-human-engineered-ai-systems-and-adds-zero) | [X](https://x.com/wengzhaoti39773/status/2077063215826301438) | [X](https://x.com/xwang_lk/status/2019454179400642788)
+  [Paper](https://arxiv.org/abs/2602.04837) | [Website](https://group-evolving-agents.github.io/) | [VentureBeat](https://venturebeat.com/orchestration/new-agent-framework-matches-human-engineered-ai-systems-and-adds-zero) | [X](https://x.com/wengzhaoti39773/status/2077063215826301438) | [X](https://x.com/xwang_lk/status/2019454179400642788)  
+  <video src="{{ '/images/COLM2026.mp4' | relative_url }}" style="max-width:520px; width:100%; border:1px solid #ddd; border-radius:6px; margin-top:8px;" muted autoplay loop playsinline controls></video>
 
 - <span style="font-size: 1.05em;"><strong>What’s Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning</strong></span>  
   **Zhaotian Weng**, Haoxuan Li, Xin (Eric) Wang, Kuan-Hao Huang, Jieyu Zhao.  
-  <span style="color:#a32020; font-weight:700;">EACL 2026 (Oral).</span>
+  <span style="color:#a32020; font-weight:700;">EACL 2026 (Oral).</span>  
+  <img src="{{ '/images/EACL2026.jpg' | relative_url }}" alt="EACL 2026 paper figure" style="max-width:520px; width:100%; border:1px solid #ddd; border-radius:6px; margin-top:8px;">
 
 - <span style="font-size: 1.05em;"><strong>Evaluating and Improving Context-aware Privacy Protection in Vision-Language Models</strong></span>  
   **Zhaotian Weng**, Haoxuan Li, Jieyu Zhao.  
@@ -57,7 +59,8 @@ I’m also happy to mentor undergraduate and master’s students interested in r
 
 - <span style="font-size: 1.05em;"><strong>Images Speak Louder than Words: Understanding and Mitigating Bias in Vision-Language Models from a Causal Mediation Perspective</strong></span>  
   **Zhaotian Weng**, Zijun Gao, Jerone Andrews, Jieyu Zhao.  
-  <span style="color:#a32020; font-weight:700;">EMNLP 2024.</span>
+  <span style="color:#a32020; font-weight:700;">EMNLP 2024.</span>  
+  <img src="{{ '/images/EMNLP2024.jpg' | relative_url }}" alt="EMNLP 2024 paper figure" style="max-width:520px; width:100%; border:1px solid #ddd; border-radius:6px; margin-top:8px;">
 
 - <span style="font-size: 1.05em;"><strong>BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents</strong></span>  
   Haoxuan Li, Mingyu Derek Ma, Jen-tse Huang, **Zhaotian Weng**, Wei Wang, Jieyu Zhao.  
