@@ -107,6 +107,9 @@ I’m also happy to mentor undergraduate and master’s students interested in r
 </div>
 
 <div class="pub">
+  <div class="pub-media">
+    <img src="{{ '/images/Heuresis.jpg' | relative_url }}" alt="Heuresis teaser">
+  </div>
   <div class="pub-body">
     <div class="pub-title">Heuresis: Search Strategies for Autonomous AI Research Agents Across Quality, Diversity and Novelty</div>
     <div class="pub-authors">Antonis Antoniades, Deepak Nathani, Ritam Saha, Alfonso Amayuelas, Ivan Bercovich, <strong>Zhaotian Weng</strong>, Vignesh Baskaran, Kunal Bhatia, William Yang Wang</div>
@@ -116,6 +119,9 @@ I’m also happy to mentor undergraduate and master’s students interested in r
 </div>
 
 <div class="pub">
+  <div class="pub-media">
+    <img src="{{ '/images/Survive.jpg' | relative_url }}" alt="Survive or Collapse teaser">
+  </div>
   <div class="pub-body">
     <div class="pub-title">Survive or Collapse: The Asymmetric Roles of Data Gating and Reward Grounding in Self-Play RL</div>
     <div class="pub-authors">Sophia Xiao Pu, <strong>Zhaotian Weng</strong>, Chengzhi Liu, Jayanth Srinivasa, Gaowen Liu, William Yang Wang, Xin Eric Wang</div>
