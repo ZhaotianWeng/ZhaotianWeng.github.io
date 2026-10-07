@@ -40,7 +40,7 @@ I’m also happy to mentor undergraduate and master’s students interested in r
 
 # 🔥 News
 - **2026.10**: &nbsp;🔍 I am actively looking for research internships for <span style="color:#a32020; font-weight:700;">Spring / Summer 2027</span>. Feel free to reach out!
-- **2026.09**: &nbsp;🎉🎉 Two papers accepted at <span style="color:#a32020; font-weight:700;">NeurIPS 2026</span>: [Survive or Collapse](https://arxiv.org/abs/2605.22217) and [Heuresis](https://arxiv.org/abs/2606.25198)!
+- **2026.09**: &nbsp;🎉🎉 Three papers accepted at <span style="color:#a32020; font-weight:700;">NeurIPS 2026</span>: [Survive or Collapse](https://arxiv.org/abs/2605.22217), [Heuresis](https://arxiv.org/abs/2606.25198), and [WorldMemArena](https://arxiv.org/abs/2605.29341)!
 - **2026**: &nbsp;🏆 [Group-Evolving Agents](https://arxiv.org/abs/2602.04837) received the <span style="color:#a32020; font-weight:700;">Outstanding Paper Award</span> at the Lifelong Agents Workshop @ COLM 2026!
 - **2026.06**: &nbsp;🎉🎉 I’ve joined Amazon as an Applied Scientist Intern, working on self-improving AI and agents. Excited for the opportunity and looking forward to a great summer!
 - **2026.01**: &nbsp;🎉🎉 one paper accepted at <span style="color:#a32020; font-weight:700;">EACL 2026 as an Oral Presentation!</span> Check [What's Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning](https://arxiv.org/abs/2506.00869) for more details!
@@ -142,7 +142,7 @@ I’m also happy to mentor undergraduate and master’s students interested in r
   <div class="pub-body">
     <div class="pub-title">WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction</div>
     <div class="pub-authors">Chengzhi Liu, Yuzhe Yang, Sophia Xiao Pu, Yepeng Liu, Lin Long, Yichen Guo, Nuo Chen, <strong>Zhaotian Weng</strong>, Elena Kochkina, Simerjot Kaur, Charese Smiley, Xiaomo Liu, James Zou, Sheng Liu, Yuheng Bu, Songyou Peng, Xin Eric Wang</div>
-    <div class="pub-venue preprint">arXiv preprint</div>
+    <div class="pub-venue">NeurIPS 2026</div>
     <div class="pub-links"><a href="https://arxiv.org/abs/2605.29341">Paper</a></div>
   </div>
 </div>
@@ -186,5 +186,9 @@ I’m also happy to mentor undergraduate and master’s students interested in r
 
 
 # 💻 Internships
+- **Applied Scientist Intern**, Amazon  
+  Palo Alto, CA · *Jun. 2026 – Sep. 2026*  
+  Worked on self-improving AI and agents.
+
 - **Machine Learning Engineer**, MockAI  
   Los Angeles, CA · *Feb. 2024 – May. 2024*
