@@ -26,7 +26,7 @@ At USC, I was fortunate to be advised by Prof. [Jieyu Zhao](https://jyzhao.net) 
 My research interests primarily lie in **multimodal learning** and **AI agents**. Recently, I have been particularly interested in improving the **fine-grained reasoning capabilities of multimodal models** and in developing **open-ended self-improving agents**.
 
 <div style="border-left:4px solid #a32020; background:#fdf3f3; padding:10px 14px; margin:18px 0; border-radius:4px;">
-🔍 <strong>I am actively looking for research internship opportunities for Spring / Summer 2027.</strong> If you think my background could be a good fit for your team, please feel free to reach out via <a href="mailto:zhaotian@ucsb.edu">email</a>!
+🔍 <strong>I am actively looking for research internship opportunities for Spring / Summer 2027.</strong> I would be happy to discuss any potential opportunities, so please feel free to reach out via <a href="mailto:zhaotian@ucsb.edu">email</a>.
 </div>
 
 # 😊 Collaboration
