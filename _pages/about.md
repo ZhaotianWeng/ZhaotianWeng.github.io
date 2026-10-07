@@ -25,6 +25,10 @@ At USC, I was fortunate to be advised by Prof. [Jieyu Zhao](https://jyzhao.net) 
 
 My research interests primarily lie in **multimodal learning** and **AI agents**. Recently, I have been particularly interested in improving the **fine-grained reasoning capabilities of multimodal models** and in developing **open-ended self-improving agents**.
 
+<div style="border-left:4px solid #a32020; background:#fdf3f3; padding:10px 14px; margin:18px 0; border-radius:4px;">
+🔍 <strong>I am actively looking for research internship opportunities for Spring / Summer 2027.</strong> If you think my background could be a good fit for your team, please feel free to reach out via <a href="mailto:zhaotian@ucsb.edu">email</a>!
+</div>
+
 # 😊 Collaboration
 I’m always excited to collaborate on research projects. If you are a PhD student or researcher and think our interests align, feel free to reach out via email!
 
@@ -35,6 +39,9 @@ I’m also happy to mentor undergraduate and master’s students interested in r
 
 
 # 🔥 News
+- **2026.10**: &nbsp;🔍 I am actively looking for research internships for <span style="color:#a32020; font-weight:700;">Spring / Summer 2027</span>. Feel free to reach out!
+- **2026.09**: &nbsp;🎉🎉 Two papers accepted at <span style="color:#a32020; font-weight:700;">NeurIPS 2026</span>: [Survive or Collapse](https://arxiv.org/abs/2605.22217) and [Heuresis](https://arxiv.org/abs/2606.25198)!
+- **2026**: &nbsp;🏆 [Group-Evolving Agents](https://arxiv.org/abs/2602.04837) received the <span style="color:#a32020; font-weight:700;">Outstanding Paper Award</span> at the Lifelong Agents Workshop @ COLM 2026!
 - **2026.06**: &nbsp;🎉🎉 I’ve joined Amazon as an Applied Scientist Intern, working on self-improving AI and agents. Excited for the opportunity and looking forward to a great summer!
 - **2026.01**: &nbsp;🎉🎉 one paper accepted at <span style="color:#a32020; font-weight:700;">EACL 2026 as an Oral Presentation!</span> Check [What's Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning](https://arxiv.org/abs/2506.00869) for more details!
 - **2025.09**: Started my Ph.D. in Computer Science at UCSB.
@@ -51,6 +58,7 @@ I’m also happy to mentor undergraduate and master’s students interested in r
 .pub-authors { margin:4px 0 3px; }
 .pub-venue { font-weight:700; color:#a32020; }
 .pub-venue.preprint { color:#666; }
+.pub-award { color:#1f4e8c; font-weight:700; }
 .pub-links { margin-top:5px; font-size:0.95em; }
 .pub-links a { text-decoration:none; }
 @media (max-width:640px){
@@ -66,7 +74,7 @@ I’m also happy to mentor undergraduate and master’s students interested in r
   <div class="pub-body">
     <div class="pub-title">Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing</div>
     <div class="pub-authors"><strong>Zhaotian Weng</strong>, Antonis Antoniades, Deepak Nathani, Zhen Zhang, Sophia Xiao Pu, Xin (Eric) Wang</div>
-    <div class="pub-venue">COLM 2026</div>
+    <div class="pub-venue">COLM 2026 &nbsp;<span class="pub-award">🏆 Outstanding Paper Award, <em>Lifelong Agents Workshop @ COLM 2026</em></span></div>
     <div class="pub-links"><a href="https://arxiv.org/abs/2602.04837">Paper</a> · <a href="https://group-evolving-agents.github.io/">Website</a> · <a href="https://venturebeat.com/orchestration/new-agent-framework-matches-human-engineered-ai-systems-and-adds-zero">VentureBeat</a> · <a href="https://x.com/wengzhaoti39773/status/2077063215826301438">X</a> · <a href="https://x.com/xwang_lk/status/2019454179400642788">X</a></div>
   </div>
 </div>
@@ -113,7 +121,7 @@ I’m also happy to mentor undergraduate and master’s students interested in r
   <div class="pub-body">
     <div class="pub-title">Heuresis: Search Strategies for Autonomous AI Research Agents Across Quality, Diversity and Novelty</div>
     <div class="pub-authors">Antonis Antoniades, Deepak Nathani, Ritam Saha, Alfonso Amayuelas, Ivan Bercovich, <strong>Zhaotian Weng</strong>, Vignesh Baskaran, Kunal Bhatia, William Yang Wang</div>
-    <div class="pub-venue preprint">arXiv preprint</div>
+    <div class="pub-venue">NeurIPS 2026</div>
     <div class="pub-links"><a href="https://arxiv.org/abs/2606.25198">Paper</a></div>
   </div>
 </div>
@@ -125,8 +133,17 @@ I’m also happy to mentor undergraduate and master’s students interested in r
   <div class="pub-body">
     <div class="pub-title">Survive or Collapse: The Asymmetric Roles of Data Gating and Reward Grounding in Self-Play RL</div>
     <div class="pub-authors">Sophia Xiao Pu, <strong>Zhaotian Weng</strong>, Chengzhi Liu, Jayanth Srinivasa, Gaowen Liu, William Yang Wang, Xin Eric Wang</div>
-    <div class="pub-venue preprint">arXiv preprint</div>
+    <div class="pub-venue">NeurIPS 2026</div>
     <div class="pub-links"><a href="https://arxiv.org/abs/2605.22217">Paper</a></div>
+  </div>
+</div>
+
+<div class="pub">
+  <div class="pub-body">
+    <div class="pub-title">WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction</div>
+    <div class="pub-authors">Chengzhi Liu, Yuzhe Yang, Sophia Xiao Pu, Yepeng Liu, Lin Long, Yichen Guo, Nuo Chen, <strong>Zhaotian Weng</strong>, Elena Kochkina, Simerjot Kaur, Charese Smiley, Xiaomo Liu, James Zou, Sheng Liu, Yuheng Bu, Songyou Peng, Xin Eric Wang</div>
+    <div class="pub-venue preprint">arXiv preprint</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2605.29341">Paper</a></div>
   </div>
 </div>
 
