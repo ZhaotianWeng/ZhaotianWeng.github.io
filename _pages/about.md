@@ -139,6 +139,9 @@ I’m also happy to mentor undergraduate and master’s students interested in r
 </div>
 
 <div class="pub">
+  <div class="pub-media">
+    <img src="{{ '/images/WorldMemArena.jpg' | relative_url }}" alt="WorldMemArena teaser">
+  </div>
   <div class="pub-body">
     <div class="pub-title">WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction</div>
     <div class="pub-authors">Chengzhi Liu, Yuzhe Yang, Sophia Xiao Pu, Yepeng Liu, Lin Long, Yichen Guo, Nuo Chen, <strong>Zhaotian Weng</strong>, Elena Kochkina, Simerjot Kaur, Charese Smiley, Xiaomo Liu, James Zou, Sheng Liu, Yuheng Bu, Songyou Peng, Xin Eric Wang</div>
